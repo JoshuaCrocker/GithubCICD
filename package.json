@@ -1,0 +1,22 @@
+{
+  "name": "githubcicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaCrocker/GithubCICD.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshuaCrocker/GithubCICD/issues"
+  },
+  "homepage": "https://github.com/JoshuaCrocker/GithubCICD#readme",
+  "dependencies": {
+    "xo": "^0.24.0"
+  }
+}
